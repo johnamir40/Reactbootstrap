@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.iphone {
+  font-family: Roboto;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+
+  line-height: 40px;
+  letter-spacing: 0%;
+}
+.h2 {
+  font-family: Roboto;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 40px;
+
+  line-height: 40px;
+  letter-spacing: 0%;
+}
+
+.btn {
+  width: 45%;
+  height: 56;
+  min-width: 136px;
+
+  opacity: 1;
+  padding-top: 16px;
+  padding-right: 56px;
+  padding-bottom: 16px;
+  padding-left: 56px;
+  gap: 8px;
+  border-radius: 6px;
+  border-width: 1px;
+}
+.newicon {
+  width: 19.880001068115234;
+  height: 15.86868667602539;
+  opacity: 1;
+  top: 4.06px;
+  left: 2.06px;
+}
