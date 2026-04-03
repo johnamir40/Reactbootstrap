@@ -4,8 +4,8 @@ import oppo from "./assets/oppo.png";
 export default function Card() {
   return (
     <div className="col-lg-3 col-md-6 col-12">
-      <div className="card h-100 p-2 text-center">
-        <img className="img-fluid p-2" src={oppo} alt="phone" />
+      <div className="card h-100 p-3 ">
+        <img className="img-fluid p-2 rounded-4" src={oppo} alt="phone" />
 
         <h6>Apple iPhone 14 Pro 512GB Gold (MQ233)</h6>
         <h6>$1437</h6>
